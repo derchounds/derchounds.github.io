@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://derchounds.github.io/sitemap.html.gz
+Sitemap: https://derchounds.github.io/app/sitemap.html.gz
+Sitemap: https://derchounds.github.io/assets/sitemap.html.gz
+Sitemap: https://derchounds.github.io/css/sitemap.html.gz
+Sitemap: https://derchounds.github.io/includes/sitemap.html.gz
+Sitemap: https://derchounds.github.io/item/sitemap.html.gz
+Sitemap: https://derchounds.github.io/src/sitemap.html.gz
